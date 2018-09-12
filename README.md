@@ -1,0 +1,2 @@
+# Bingo
+My Solo Project
